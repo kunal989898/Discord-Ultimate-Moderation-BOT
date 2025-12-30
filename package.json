@@ -1,0 +1,13 @@
+
+{
+  "name": "null-core-professional",
+  "version": "5.0.0",
+  "description": "Null • Core — Professional Edition Moderation Bot",
+  "main": "index.js",
+  "engines": { "node": ">=18.0.0" },
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sqlite3": "^5.1.7"
+  }
+}
